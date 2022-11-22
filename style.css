@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+
+    margin: 30px;
+  }
+  h1{
+    text-align: center;
+    color: aliceblue;
+  }
+  b{
+    color: brown;
+  }
+  p{
+    color: cornflowerblue;
+
+  }
+  pre{
+    color: aliceblue;
+  }
